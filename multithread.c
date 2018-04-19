@@ -3,7 +3,7 @@
 #include<stdlib.h>
 int avg;
 int min;
-int max=0;
+int max;
 struct cal{
      int a;
      int b[10];
